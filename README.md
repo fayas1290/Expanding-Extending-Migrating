@@ -59,9 +59,7 @@ In the next page review the logical drive summary and click on 'Finish'
 
 <br>
 
-You will be able to see an extra physical drive added to the array in the middle pane 
-<br>
-<br>
+You will be able to see an extra physical drive added to the array in the middle pane <br><br>
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/f5f4c777-176c-4b8c-8690-0c16a9435fdf)
 <br>
 <br>
@@ -82,8 +80,9 @@ to enlarge one or more of the logical drives on the array.
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/2c5a443a-0b81-415c-b6ce-3ee5029daaf7)
 <br>
 
-choose the available size to extend the logical drive to
+Choose the available size to extend the logical drive to
+
 <br>
-![Uploading image.png…]()
+![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/439153c3-0917-42dc-94f8-d10c5aec6df7)
 
 
