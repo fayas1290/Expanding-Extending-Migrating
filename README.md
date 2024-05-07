@@ -60,7 +60,7 @@ You can increase the storage space on an array by adding physical drives. Any dr
 <br>
 
 - You will be able to see an extra physical drive added to the array in the middle pane
-
+<br>
 
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/f5f4c777-176c-4b8c-8690-0c16a9435fdf)
 <br>
