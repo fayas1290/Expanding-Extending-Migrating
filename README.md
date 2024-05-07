@@ -43,8 +43,8 @@ You can increase the storage space on an array by adding physical drives. Any dr
 
 <br>
 
-In the next page
-- Make sure to choose 'Add Drive(s) - Expand Array' and select the physical drive and click on 'OK' to continue
+
+- In the next page make sure to choose 'Add Drive(s) - Expand Array' and select the physical drive and click on 'OK' to continue
 
 <br>
 
@@ -52,14 +52,14 @@ In the next page
 
 <br>
 
-In the next page review the logical drive summary and click on 'Finish'
+- In the next page, review the logical drive summary and click on 'Finish'
 <br>
 
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/02cd4498-3088-4e06-acfa-78a7bfcc4496)
 
 <br>
 
-You will be able to see an extra physical drive added to the array in the middle pane <br><br>
+- You will be able to see an extra physical drive added to the array in the middle pane <br><br>
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/f5f4c777-176c-4b8c-8690-0c16a9435fdf)
 <br>
 <br>
@@ -80,9 +80,39 @@ to enlarge one or more of the logical drives on the array.
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/2c5a443a-0b81-415c-b6ce-3ee5029daaf7)
 <br>
 
-Choose the available size to extend the logical drive to
+- Choose the available size to extend the logical drive to
 
 <br>
+
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/439153c3-0917-42dc-94f8-d10c5aec6df7)
+<br>
+<br>
+
+## Migrating A Logical Drive
+A RAID migration allows you to convert a RAID-Ready system into a RAID 0, 1, 5, or 10 configuration, or from a RAID 0, 1, or 10 volume to a RAID 5 volume
+
+Consider the following factors before performing a migration:
+- For some RAID-level migrations to be possible, you might need to add one or more drives to the 
+array.
+- For migration to a larger stripe size to be possible, the array might need to contain unused drive 
+space. This extra space is necessary because some of the larger data stripes in the migrated array 
+are likely to be filled inefficiently
+
+
+### Procedure
+Below we can see a logical drive of RAID level RAID 1
+<br>
+
+![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/7457fe18-a882-42bf-b8fa-0e3bc24d5414)
+
+- Click on 'Migrate RAID/Strip size on the right pane
+<br>
+![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/390b10e3-1580-45c1-b9d2-7f8cbc59ac55)
+
+-Choose the RAID level to migrate to, here we get the option to migrate to RAID 0 only as there are only physical drives in the logical drive
+<br>
+
+![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/88c955e3-5f2b-4521-9345-80bc19035af5)
+
 
 
