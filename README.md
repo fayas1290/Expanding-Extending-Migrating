@@ -105,11 +105,12 @@ Below we can see a logical drive of RAID level RAID 1
 
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/7457fe18-a882-42bf-b8fa-0e3bc24d5414)
 
-- Click on 'Migrate RAID/Strip size on the right pane
+- Click on 'Migrate RAID/Strip size' on the right pane
 <br>
+
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/390b10e3-1580-45c1-b9d2-7f8cbc59ac55)
 
--Choose the RAID level to migrate to, here we get the option to migrate to RAID 0 only as there are only physical drives in the logical drive
+- Choose the RAID level to migrate to, here we get the option to migrate to RAID 0 only as there are only physical drives in the logical drive and click on 'OK'
 <br>
 
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/88c955e3-5f2b-4521-9345-80bc19035af5)
