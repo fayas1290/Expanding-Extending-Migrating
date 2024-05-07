@@ -30,7 +30,7 @@ You can increase the storage space on an array by adding physical drives. Any dr
 - It must be of the same type as existing drives in the array (for example, SATA or SAS). 
 - It must have a capacity no less than that of the smallest drive in the array.
 
-### Procedure:
+### Procedure
 
 - Select the storage controller on the left pane
 - Click on 'Configure'
@@ -63,5 +63,27 @@ You will be able to see an extra physical drive added to the array in the middle
 <br>
 <br>
 ![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/f5f4c777-176c-4b8c-8690-0c16a9435fdf)
+<br>
+<br>
+
+## Extending A Logical Drive using SSA GUI
+If the operating system supports logical drive extension, you can use any unassigned capacity on an array 
+to enlarge one or more of the logical drives on the array.
+
+### Procedure
+- Select the storage controller on the left pane
+- Click on 'Configure'
+- Go to 'Logical Devices' on the left pane
+- Select the logical drive that you want to extend in the middle pane
+- Click on 'Extend Logical Drive' on the right pane
+
+<br>
+
+![image](https://github.com/fayas1290/Expanding-Extending-Migrating/assets/157561213/2c5a443a-0b81-415c-b6ce-3ee5029daaf7)
+<br>
+
+choose the available size to extend the logical drive to
+<br>
+![Uploading image.png…]()
 
 
